@@ -16,7 +16,11 @@ const PhotoGallery = function () {
       </div>
 
       <div className="flex justify-evenly items-center mt-16">
-
+        <div className="flex flex-col gap-5">
+          <div className="flex gap-6 justify-center items-center">
+            <img src={img1} alt="gallery" className="h-60 rounded-3xl" />
+            <img src={img2} alt="gallery" className="h-60 rounded-3xl" />
+          </div>
 
           <img src={img5} alt="gallery" className="h-48 rounded-3xl" />
         </div>
