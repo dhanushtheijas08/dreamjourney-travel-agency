@@ -13,7 +13,11 @@ module.exports = {
       "gray": "#5d6165",
       "darkblue": "#152432",
       "coral": "#fc787f",
-      "lightcoral": "#f8858b25"
+      "lightcoral": "#f8858b25",
+      "primary": "#fff5f5",
+      "service-box-1": "#fff0e8",
+      "service-box-2": "#ffebed",
+      "service-box-3": "#faebf8",
     },
     fontFamily: {
       "pop": ["Poppins", "sans-serif"]
