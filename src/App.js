@@ -6,10 +6,7 @@ import Service from './Components/Service/Service';
 function App() {
   return (
     <div className="App">
-      <Home />
-      <Service />
-      <Destinations />
-      <PhotoGallery />
+      
     </div>
   );
 }
