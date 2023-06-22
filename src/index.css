@@ -4,7 +4,12 @@
 @tailwind utilities;
 
 :root {
-
+  /* Backgroung Color */
+  --bg-white: hsl(0, 0%, 100%);
+  --bg-black-alpha-20: #00000033;
+  /* --bg-lavender-blush: #fff5f5; */
+  /* --bg-majorelle-blue: #6247fa; */
+  --bg-ocean-blue: #5640d4;
   --bg-majorelle-blue-alpha-5: #6247fa0d;
   --bg-misty-rose: #ffe5e5;
   --bg-red-salsa: #f94851;
