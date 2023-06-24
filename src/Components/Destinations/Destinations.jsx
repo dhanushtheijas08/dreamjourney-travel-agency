@@ -42,11 +42,7 @@ const destinationData = [
 
 const Destinations = function () {
   const places = destinationData.map((place) => (
-    <DestinationsCard
-      country={place.country}
-      caption={place.caption}
-      image={place.path}
-    />
+    
   ));
 
   return (
