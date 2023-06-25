@@ -50,7 +50,7 @@ const Destinations = function () {
   ));
 
   return (
-    <section className="bg-primary font-pop px-16 py-10">
+    <section className="bg-primary font-pop px-16 py-10" id="">
       <div className="text-center">
         <span className="text-purple font-medium tracking-wider text-lg">
           TOP DESTINATIONS

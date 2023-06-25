@@ -2,7 +2,6 @@ import icon1 from "../../asserts/service-section/service-icon-1.svg";
 import icon2 from "../../asserts/service-section/service-icon-2.svg";
 import icon3 from "../../asserts/service-section/service-icon-3.svg";
 import ServiceCard from "./ServiceCard";
-
 const serviceContent = [
   {
     icon: icon1,
@@ -35,7 +34,7 @@ const Service = function () {
   ));
 
   return (
-    <section className="bg-primary flex font-pop p-16">
+    <section className="bg-primary flex font-pop p-16" id="service">
       <div className="flex flex-col max-w-xs">
         <span className="text-purple uppercase tracking-wider">
           WHAT WE SERVE
