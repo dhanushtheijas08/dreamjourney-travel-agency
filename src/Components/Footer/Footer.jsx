@@ -25,10 +25,8 @@ const allLinks = [
   },
 ];
 
-const Footer = function () {
-  let footerLinks = allLinks.map(({ title, links }) => (
-    <FooterLinks title={title} links={links} />
-  ));
+
+
   return (
     <footer className="bg-primary font-pop px-16 py-32 flex">
       <div className="flex flex-col gap-3">
