@@ -1,11 +1,11 @@
 import DestinationsCard from "./DestinationsCard";
-
 import des1 from "../../asserts/destination-images/destination-1.jpg";
 import des2 from "../../asserts/destination-images/destination-2.jpg";
 import des3 from "../../asserts/destination-images/destination-3.jpg";
 import des4 from "../../asserts/destination-images/destination-4.jpg";
 import des5 from "../../asserts/destination-images/destination-5.jpg";
 import des6 from "../../asserts/destination-images/destination-6.jpg";
+
 
 const destinationData = [
   {
