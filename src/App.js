@@ -6,7 +6,7 @@ import Header from './Components/Home/Header/Header';
 import Home from "./Components/Home/Home"
 import PhotoGallery from './Components/PhotoGallery/PhotoGallery';
 import Service from './Components/Service/Service';
-import Sample from './Sample';
+// import Sample from './Sample';
 
 
 function App() {
